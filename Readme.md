@@ -13,7 +13,7 @@
 
 🌟 Beyond coding: I find inspiration in outdoor adventures and listening to music, which keeps my creativity flowing.
 
-📫 Let's connect: Interested in exciting opportunities or have questions about my projects? Reach out and let's create amazing things together!
+📫 Let's connect: Interested in collaborating or have questions about my projects? Reach out and let's create amazing things together!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,tailwind,express,figma,git,jquery,mongodb,nodejs&perline=7)](https://skillicons.dev)
 #
