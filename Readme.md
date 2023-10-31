@@ -23,7 +23,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishika-08&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-08&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 #
 ## 🔗 Links
 
