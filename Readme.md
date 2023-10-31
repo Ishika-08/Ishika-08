@@ -16,10 +16,12 @@
 📫 Let's connect: Interested in collaborating or have questions about my projects? Reach out and let's create amazing things together!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,tailwind,express,figma,git,jquery,mongodb,nodejs&perline=7)](https://skillicons.dev)
+
 #
 
 # 📈Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ishika-08)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ishika-08)](https://git.io/streak-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishika-08&count_private=true)
 
