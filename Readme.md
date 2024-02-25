@@ -23,7 +23,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ishika-08)](https://git.io/streak-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishika-08&count_private=true)
+[![Ishika-08's GitHub | Stats](https://stats.quine.sh/Ishika-08/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ishika-08)
 
 
 #
