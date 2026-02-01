@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ishika Ranjan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&weight=700&size=24&pause=1000&color=223AF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+MERN+Stack+%7C+Python Development;Building+Scalable+Web+Applications;Clean+Code+%7C+APIs+%7C+Performance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&weight=700&size=24&pause=1000&color=223AF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+MERN+Stack+%7C+Python+Development;Building+Scalable+Web+Applications;Clean+Code+%7C+APIs+%7C+Performance)](https://git.io/typing-svg)
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a **Software Developer** with hands-on experience in **MERN stack** and **Python-based backend systems**, focused on building **scalable, maintainable, and high-performance web applications**.
+I am a **Software Developer** with hands-on experience in **MERN stack** and **Python Development**, focused on building **scalable, maintainable, and high-performance web applications**.
 
  🔹 Strong experience with **React, Node.js, Express, MongoDB**
  🔹 Backend development using **Python**, REST APIs, and microservices
@@ -43,16 +43,6 @@ Git, GitHub, Postman, CI/CD basics
 ## 🧩 Skills Overview
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,redux,html,css,bootstrap,tailwind,nodejs,express,mongodb,docker,git,github,aws,azure&perline=8)](https://skillicons.dev)
-
----
-
-## 📊 GitHub Activity
-
-- Consistent contributor with hands-on experience in MERN stack and Python backend systems  
-- Active development across full-stack, API-driven, and cloud-based projects  
-- Focused on code quality, performance optimization, and maintainability  
-![GitHub Contributions](https://github.com/Ishika-08)
-
 
 ---
 
