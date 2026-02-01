@@ -1,34 +1,68 @@
+# 👋 Hi, I'm Ishika Ranjan
 
-#
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&weight=900&size=26&pause=1000&color=223AF7&center=true&vCenter=true&width=435&lines=Welcome+fellow+coders....)](https://git.io/typing-svg)
-#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monaco&weight=700&size=24&pause=1000&color=223AF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+MERN+Stack+%7C+Python;Building+Scalable+Web+Applications;Clean+Code+%7C+APIs+%7C+Performance)](https://git.io/typing-svg)
 
-# Hi! I'm Ishika Ranjan
+---
 
-👋 Hi there! I'm Ishika Ranjan, a passionate MERN stack developer. I love building dynamic and interactive web applications with clean, scalable code.
+## 👩‍💻 About Me
 
-🌱 Always learning: I explore emerging technologies, work with RESTful APIs, and optimize performance for seamless user experiences.
+I am a **Software Developer** with hands-on experience in **MERN stack** and **Python-based backend systems**, focused on building **scalable, maintainable, and high-performance web applications**.
 
-🚀 Collaboration: I enjoy contributing to open-source projects and collaborating with developers to solve challenges and drive innovation.
+- 🔹 Strong experience with **React, Node.js, Express, MongoDB**
+- 🔹 Backend development using **Python**, REST APIs, and microservices
+- 🔹 Cloud exposure with **AWS & Azure**
+- 🔹 Passionate about clean architecture, performance optimization, and system design
+- 🔹 Experience working in **remote, production-grade environments**
 
-🌟 Beyond coding: I find inspiration in outdoor adventures and listening to music, which keeps my creativity flowing.
+I enjoy solving real-world problems, collaborating with cross-functional teams, and continuously improving my engineering skills.
 
-📫 Let's connect: Interested in collaborating or have questions about my projects? Reach out and let's create amazing things together!
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,bootstrap,tailwind,express,figma,git,jquery,mongodb,nodejs&perline=7)](https://skillicons.dev)
+## 🛠️ Tech Stack
 
-#
+**Languages:**  
+JavaScript (ES6+), TypeScript, Python, Java, C++
 
-# 📈Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ishika-08)](https://git.io/streak-stats)
+**Frontend:**  
+React.js (Hooks, Context API), Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
 
+**Backend:**  
+Node.js, Express.js, Python, RESTful APIs
 
-[![Ishika-08's GitHub | Stats](https://stats.quine.sh/Ishika-08/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Ishika-08)
+**Databases:**  
+MongoDB, Mongoose ORM, MySQL
 
+**Cloud & DevOps:**  
+AWS (Lambda, Serverless), Microsoft Azure, Docker
 
-#
-## 🔗 Links
+**Tools & Platforms:**  
+Git, GitHub, Postman, CI/CD basics
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-ranjan-75970a23b/)
+---
 
+## 🧩 Skills Overview
 
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,react,redux,html,css,bootstrap,tailwind,nodejs,express,mongodb,docker,git,github,aws,azure&perline=8)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+> Reliable widgets (rarely go down)
+
+![Ishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishika-08&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishika-08&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-08&layout=compact&hide_border=true)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-ranjan-75970a23b/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishika-08)
+
+---
+
+⭐ *Open to Software Developer roles (MERN / Python Backend). Always happy to collaborate on impactful projects.*
