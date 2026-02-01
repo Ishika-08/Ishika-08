@@ -8,11 +8,11 @@
 
 I am a **Software Developer** with hands-on experience in **MERN stack** and **Python-based backend systems**, focused on building **scalable, maintainable, and high-performance web applications**.
 
-- 🔹 Strong experience with **React, Node.js, Express, MongoDB**
-- 🔹 Backend development using **Python**, REST APIs, and microservices
-- 🔹 Cloud exposure with **AWS & Azure**
-- 🔹 Passionate about clean architecture, performance optimization, and system design
-- 🔹 Experience working in **remote, production-grade environments**
+ 🔹 Strong experience with **React, Node.js, Express, MongoDB**
+ 🔹 Backend development using **Python**, REST APIs, and microservices
+ 🔹 Cloud exposure with **AWS & Azure**
+ 🔹 Passionate about clean architecture, performance optimization, and system design
+ 🔹 Experience working in **remote, production-grade environments**
 
 I enjoy solving real-world problems, collaborating with cross-functional teams, and continuously improving my engineering skills.
 
@@ -30,10 +30,10 @@ React.js (Hooks, Context API), Redux, HTML5, CSS3, Bootstrap, Tailwind CSS
 Node.js, Express.js, Python, RESTful APIs
 
 **Databases:**  
-MongoDB, Mongoose ORM, MySQL
+MongoDB, MySQL
 
 **Cloud & DevOps:**  
-AWS (Lambda, Serverless), Microsoft Azure, Docker
+AWS, Microsoft Azure, Docker
 
 **Tools & Platforms:**  
 Git, GitHub, Postman, CI/CD basics
@@ -46,23 +46,20 @@ Git, GitHub, Postman, CI/CD basics
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-> Reliable widgets (rarely go down)
+- Consistent contributor with hands-on experience in MERN stack and Python backend systems  
+- Active development across full-stack, API-driven, and cloud-based projects  
+- Focused on code quality, performance optimization, and maintainability  
 
-![Ishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishika-08&show_icons=true&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ishika-08&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishika-08&layout=compact&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ishika-08&theme=flat&no-frame=true&row=1&margin-w=10)
 
 ---
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishika-ranjan-75970a23b/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ishika-08)
 
 ---
 
-⭐ *Open to Software Developer roles (MERN / Python Backend). Always happy to collaborate on impactful projects.*
+⭐ *Open to Software Developer roles (MERN / Python Developer). Always happy to collaborate on impactful projects.*
